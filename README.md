@@ -8,9 +8,8 @@ of Fer2013 data set we will be able to detect which expression is in an image.
 There are 4 python executables one for each model.
 To be able to run them just type:
 
-''''
->python modelX.py (where X can be 1 to 4)
-''''
+>python modelX.py 
+(where X can be 1 to 4)
 
 Tensorflow needs to be installed to be able to run it:
 https://www.tensorflow.org/install/
